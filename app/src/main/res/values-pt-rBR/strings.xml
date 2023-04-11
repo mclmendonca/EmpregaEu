@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmpregaEu</string>
+    <string name="password">Senha</string>
+    <string name="remember">Lembrar</string>
+    <string name="name">Nome</string>
+    <string name="login">ENTRAR</string>
+</resources>
